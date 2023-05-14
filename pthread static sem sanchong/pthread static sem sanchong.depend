@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1683858383 source:d:\gcc\gcc\64\pthread static sem sanchong\main.cpp
+	<iostream>
+	<Windows.h>
+	<emmintrin.h>
+	<fstream>
+	<pthread.h>
+	<semaphore.h>
+

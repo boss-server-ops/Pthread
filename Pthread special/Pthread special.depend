@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1684049020 source:c:\users\asus\desktop\pthread special\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+	<Windows.h>
+	<emmintrin.h>
+	<semaphore.h>
+

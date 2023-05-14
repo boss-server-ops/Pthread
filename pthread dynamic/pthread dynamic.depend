@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683858381 source:d:\gcc\gcc\64\pthread dynamic\main.cpp
+	<iostream>
+	<Windows.h>
+	<emmintrin.h>
+	<fstream>
+	<pthread.h>
+

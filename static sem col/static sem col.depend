@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1683961680 source:d:\gcc\gcc\64\static sem col\main.cpp
+	<iostream>
+	<Windows.h>
+	<emmintrin.h>
+	<fstream>
+	<pthread.h>
+	<semaphore.h>
+
